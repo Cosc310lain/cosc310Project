@@ -27,3 +27,7 @@ The invoke methods in AnxietyTherapist, DepressionTherapist, OtherTherapist and 
 The TherapistConnection class was created in order to create therapist objects. These objects were not able to call the methods respective to the moods without an individual TherapistInterface class, ex: AnxietyTherapist.java
 
 The methods in the classes of the Moods package are used to give response to the user when they inform the chat bot of what problem they are facing. The bot then gives them some piece of helpful advice and then presents the user the option to connect to a professional therapist if they feel that the advice has not been able to help them. 
+
+Features implemented as part of assignment 2: 
+  * Named Entity Recognition (NER) - Implemented NER to recognize the users name from their introduction to the chat bot and used their name to greet them back.
+  * Porter Stemmer - 
