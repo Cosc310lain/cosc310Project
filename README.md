@@ -32,12 +32,12 @@ Added the new feature where the user can choose an 'other' option under the list
 
 Features implemented as part of assignment 2: 
   * Named Entity Recognition (NER) - Implemented NER to recognize the users name from their introduction to the chat bot and used their name to greet them back.
-  * Porter Stemmer - Implemented porter stemmer to get confirmation from the user using input without having to hard code it. 
+  * Porter Stemmer - Implemented porter stemmer to streamline the recognition for what mood the user inputs without having to hard code it.
 
 List of 5 features that can be used as an API:
  1. The list of different moods that the chatbot can help with. 
  2. The list and network of licensed therapists that the chatbot helps the user connect to.
  3. A method that allows the chatbot to randomise the response to a particular text.
  4. An introduction feature where the bot takes the users name from their introduction and greets them back with their name. 
- 5. Feature using porter stemmer to get confirmation from the user to proceed to the next step and connect to a therapist. 
+ 5. Feature using porter stemmer to recgonize what mood has been input by the user and move on to the next step seamlessly. 
 
