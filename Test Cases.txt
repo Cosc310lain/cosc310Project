@@ -1,0 +1,7 @@
+Test Cases :
+- tokenizingTest1() compares a string array and a sentence passed through the Tokenizing method to see if they are equal. If they are 
+equal the test passes otherwise it fails.
+- tokenizingTest2() checks if the returned data from the Tokenizing method is null. If it is null the test fails and if it is not null
+it passes.
+- tokenizingTest3() comapres a string array and a sentence passed through the Tokenizing method to see if they are not equal. If they are
+not equal the test passes otherwise it fails.
