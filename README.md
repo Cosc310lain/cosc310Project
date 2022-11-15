@@ -32,4 +32,4 @@ Added the new feature where the user can choose an 'other' option under the list
 
 Features implemented as part of assignment 2: 
   * Named Entity Recognition (NER) - Implemented NER to recognize the users name from their introduction to the chat bot and used their name to greet them back.
-  * Porter Stemmer - 
+  * Porter Stemmer - Implemented porter stemmer to get confirmation from the user using input without having to hard code it. 
